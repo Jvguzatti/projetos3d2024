@@ -1,0 +1,9 @@
+body {
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/background/20230625/pngtree-house-blueprint-on-a-wooden-surface-with-3d-rendering-image_3673848.jpg");
+    background-size:  cover; /* Redimensionar a imagem para cobrir todo o corpo */
+    background-repeat: no-repeat; /* Evitar a repetição da imagem */
+    background-attachment: fixed; /* Fixar o fundo para que ele role com a página */
+}
+button {
+    background-color: rgb(107, 43, 226);
+}
